@@ -1,16 +1,81 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Chandrakanth Yadav 👋</h1>
 
-<!--
-**Chandrakanth-udari/Chandrakanth-udari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Data Analyst · Business Intelligence Analyst · Power Platform Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Power+BI+%7C+Tableau+%7C+SQL+%7C+Python;Power+Platform+%26+Azure+AI+Developer;Building+intelligent%2C+data-driven+solutions" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chandrakanth-udari&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a data professional who transforms raw, complex data into clear, actionable insights and intelligent business solutions. I specialize in building analytics platforms, interactive dashboards, and low-code applications that help organizations make faster, smarter decisions.
+
+- 📊 I design end-to-end **BI solutions** with Power BI, Tableau, and SQL.
+- ⚙️ I build business apps and automation with the **Microsoft Power Platform**.
+- 🤖 I develop **AI-powered solutions** using Azure AI Search (RAG, embeddings, vectorization) and Azure AI Foundry.
+- 🏭 I've delivered data solutions across **Manufacturing, Accounting, Church/Non-profit, Hospital/Healthcare, and Finance** domains.
+- 🎯 I'm passionate about clean data models, scalable pipelines, and turning analytics into real business value.
+
+---
+
+## 🧰 Tech Stack & Tools
+
+### 📈 Business Intelligence & Analytics
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### 💻 Languages & Databases
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚡ Microsoft Power Platform
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Copilot](https://img.shields.io/badge/Microsoft_Copilot-2563EB?style=for-the-badge&logo=microsoft&logoColor=white)
+
+> Power Apps (Canvas & Model-Driven Apps) · Power Automate · Power Apps AI Hub
+
+### ☁️ Cloud & AI
+![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+> Azure AI Search (Embedding Models · Vectorization · Indexes · RAG) · Azure AI Foundry · Microsoft Copilot
+
+---
+
+## 🏢 Industry Experience
+
+| Domain | Focus |
+| --- | --- |
+| 🏭 Manufacturing | Operational reporting & production analytics |
+| 🧾 Accounting | Financial reporting & data automation |
+| ⛪ Church / Non-profit | Membership & engagement insights |
+| 🏥 Hospital / Healthcare | Patient & operational dashboards |
+| 💰 Finance | Financial BI & performance analytics |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chandrakanth-udari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrakanth-udari&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrakanth-udari&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center"><i>Let's connect and build something data-driven together! 🚀</i></p>
