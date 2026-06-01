@@ -41,15 +41,16 @@ I'm a data professional who transforms raw, complex data into clear, actionable 
 ### ⚡ Microsoft Power Platform
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Copilot](https://img.shields.io/badge/Microsoft_Copilot-2563EB?style=for-the-badge&logo=microsoft&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Microsoft_Copilot_Studio-2563EB?style=for-the-badge&logo=microsoft&logoColor=white)
 
-> Power Apps (Canvas & Model-Driven Apps) · Power Automate · Power Apps AI Hub
+> Power Apps (Canvas & Model-Driven Apps) · Power Automate · Power Apps AI Hub · Microsoft Copilot Studio
 
 ### ☁️ Cloud & AI
 ![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-> Azure AI Search (Embedding Models · Vectorization · Indexes · RAG) · Azure AI Foundry · Microsoft Copilot
+> Azure AI Search (Embedding Models · Vectorization · Indexes · RAG) · Azure AI Foundry · Azure Blob Storage · Microsoft Copilot Studio
 
 ---
 
