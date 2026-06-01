@@ -65,15 +65,40 @@ I'm a data professional who transforms raw, complex data into clear, actionable 
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+### 📊 Insurance Claims & Financial Risk Analysis — Power BI
+An end-to-end Power BI project analyzing a real-world insurance dataset (2014–2018) to track policies, claims, usage types, and financial performance. Built executive dashboards and a written business report uncovering why the company's premium-to-claim ratio became unsustainable.
+
+- **Tools:** Power BI, SQL, Executive Reporting
+- **Highlights:** 508K policies & \$4B premiums analyzed · KPI tracking · data storytelling · business recommendations
+- 🔗 [View Project »](https://github.com/Chandrakanth-udari/insurance-claims-analysis-powerbi)
+
+### ⚡ Quote Follow-Up App — Power Apps (Canvas)
+A production Power Apps Canvas app for a commercial manufacturing client that surfaces aging, un-converted quotes and lets estimators send AI-drafted follow-up emails in a couple of taps — with a full send-history audit trail.
+
+- **Tools:** Power Apps (Canvas), Power Automate, SQL Server, AI text generation
+- **Highlights:** aging-quote worklist · priority & value-tier filters · bulk send · AI-drafted emails · audit logging
+- 🔗 [View Project »](https://github.com/Chandrakanth-udari/Quote-Follow-Up-Power-App)
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chandrakanth-udari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrakanth-udari&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://www.linkedin.com/in/chandrakanth-yadav-udari-a1376a32b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Udarichandrakanth@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="tel:+13147388338">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrakanth-udari&theme=tokyonight" alt="GitHub Streak" />
+  📧 <b>Udarichandrakanth@gmail.com</b> &nbsp;|&nbsp; 📱 <b>(314) 738-8338</b>
 </p>
 
 ---
